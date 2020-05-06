@@ -289,11 +289,11 @@
     
 - Long Term Steps:
     
-   <ol>
-       <li>
-          - Will keep a lookout for updates on the various deployment platforms, stackoverflow, and pyspark deployment to see if the pyspark ALS component can be incorporated into the deployment without incurring unnecessary billing, as tapping onto the [AWS S3 Bucketeer](https://elements.heroku.com/addons/bucketeer) that complements deployment of spark applications on Heroku is not complimentary.
-       </li>
-    </ol>
+  
+<ul>
+- Will keep a lookout for updates on the various deployment platforms, stackoverflow, and pyspark deployment to see if the pyspark ALS component can be incorporated into the deployment without incurring unnecessary billing, as tapping onto the [AWS S3 Bucketeer](https://elements.heroku.com/addons/bucketeer) that complements deployment of spark applications on Heroku is not complimentary.
+</ul>
+
     
 </ul>
 
